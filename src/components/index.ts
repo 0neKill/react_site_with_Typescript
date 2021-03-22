@@ -1,0 +1,11 @@
+export {default as Header} from './Header';
+export {default as Button} from './Button';
+export {Categories} from './Categories';
+export {SortPopup} from './SortPopup';
+export {Pizzas} from './Pizzas';
+export {PizzaItem} from './PizzaItem';
+export {MyLoader} from './Loading';
+export {CartItem} from './CartItem';
+export {CartBottom} from './CartBottom';
+export {CartClear} from './CartClear';
+export {CartItems} from './CartItems';

@@ -1,0 +1,5 @@
+export enum PizzaAction {
+    SAGA_ACTION_FOR_ADD_PIZZAS = 'SAGA_ACTION_FOR_ADD_PIZZAS',
+    SET_PIZZAS = 'SET_PIZZAS',
+    IS_LOADING = 'IS_LOADING',
+}
